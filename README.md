@@ -22,7 +22,6 @@
 1. [Contributing](#contributing)
 
 ## Usage
-http://learnitnow.herokuapp.com/
 
 If you have knowledge to share, sign in and post.
 If you want to learn, just sign up with your email.
@@ -62,15 +61,6 @@ your API key.
 
 Sending from a local instance only works for sending to the email
 used to register with Mailgun.
-
-#### Other APIs
-
-https://developer.appear.in/
-
-### Roadmap
-
-View the project roadmap [here](https://github.com/hrr12-velociraptors/velociraptors/issues)
-
 
 ## Contributing
 
